@@ -3,8 +3,7 @@
 
 매장 내 고객 동산 파악
 
-- 라즈베리파이
-- Doker
+- 라즈베리파이 3 B + 5A + SD(16G) 
 - NBP 클라우드
 (https://github.com/syujisu/IotHeatMap/issues/1#issue-592360659)
 
