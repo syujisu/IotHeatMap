@@ -1,9 +1,8 @@
 # IotHeatMap
-네이버 클라우드 IOT CORE 사용 
+- ThingSpeak 사용
+- 회사 내 동선 파악 
 
-매장 내 고객 동산 파악
 
-- 라즈베리파이 3 B + 5A + SD(16G) 
-- NBP 클라우드
-
-등등 사용 예정
+1. 하드웨어 ;  arduino b uno (w1 d1) + 초음파 센서 + PIR 센서
+2. 인프라 : ThingSpeak
+3. 분석 : R (CSV -> HeatMap)
