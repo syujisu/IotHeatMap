@@ -4,8 +4,8 @@
 
 
 //wifi
-const char* ssid = "iPhone";
-const char* password = "wltn2548";
+const char* ssid = "";
+const char* password = "";
 const char* server = "api.thingspeak.com";
 WiFiClient client;
 
@@ -16,8 +16,8 @@ long duration;
 float distance;
 
 //thingSpeak
-unsigned long ChannelID = 1037366;
-const char * WriteAPIKey = "UDZRKMA7K2WUW5IG";
+unsigned long ChannelID = ;
+const char * WriteAPIKey = "";
 
 
 void setup() {
